@@ -1,4 +1,9 @@
-## Unreleased
+## 6.7.0
+
+IMPROVEMENTS:
+* resource/signalfx_data_link: Remove is_default from unsupported targets [#267](https://github.com/splunk-terraform/terraform-provider-signalfx/pull/267)
+
+## 6.6.0
 
 IMPROVEMENTS:
 * resource/signalfx_detector: Added `TimeZone` argument. [#285](https://github.com/splunk-terraform/terraform-provider-signalfx/pull/285)
